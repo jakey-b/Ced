@@ -1,0 +1,3 @@
+#include eastdlib.event
+ORG 0x1000000
+#include "Hello World.txt"
